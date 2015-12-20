@@ -1,0 +1,21 @@
+{
+  "name": "theantichris/enum",
+  "description": "A PHP implementation of an Enum class.",
+  "license": "GNU3",
+  "keywords": [
+    "enum"
+  ],
+  "authors": [
+    {
+      "name": "Christopher Lamm",
+      "email": "chris@theantichris.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "theantichris\\enum\\": "src"
+    }
+  }
+}
