@@ -49,3 +49,7 @@ Temporary Items
 # PhpStorm
 
 .idea
+
+# Composer
+
+vendor
