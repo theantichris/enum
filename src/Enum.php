@@ -14,7 +14,7 @@ abstract class Enum
      *
      * @return string[]
      */
-    private static function getConstants()
+    public static function getConstants()
     {
         if (empty(self::$constCacheArray)) {
             self::$constCacheArray = [];
