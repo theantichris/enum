@@ -1,8 +1,7 @@
 {
   "name": "theantichris/enum",
-  "version": "1.0.1",
   "description": "A PHP implementation of an Enum class.",
-  "license": "GNU3",
+  "license": "GPL-3.0-or-later",
   "keywords": [
     "enum"
   ],
